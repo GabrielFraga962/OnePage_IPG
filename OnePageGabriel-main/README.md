@@ -30,13 +30,6 @@ One Page IPG Health - Wordpress
 ( ) - Hard
 ```
 
-## Resources
-
-```
-Desktop: https://ipghealth.egnyte.com/app/index.do#storage/folder/3df280f8-af02-4331-8b76-dabec515108c
-
-```
-
 ## License
 
 All rights reserved - [McCANN HEALTH](http://www.mccannhealth.com/)
