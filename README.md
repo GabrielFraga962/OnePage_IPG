@@ -9,4 +9,3 @@ Aplicação feita em WordPress e PHP
  > Status do Projeto: concluído :white_check_mark:
 </p>
 
-
