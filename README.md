@@ -8,4 +8,3 @@ Aplicação feita em WordPress e PHP
 <p align="center">
  > Status do Projeto: concluído :white_check_mark:
 </p>
-
